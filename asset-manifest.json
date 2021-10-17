@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EagleNews/static/css/main.8321a193.chunk.css",
+    "main.js": "/EagleNews/static/js/main.ca6d2956.chunk.js",
+    "main.js.map": "/EagleNews/static/js/main.ca6d2956.chunk.js.map",
+    "runtime-main.js": "/EagleNews/static/js/runtime-main.5b6be3e2.js",
+    "runtime-main.js.map": "/EagleNews/static/js/runtime-main.5b6be3e2.js.map",
+    "static/js/2.e16ff63b.chunk.js": "/EagleNews/static/js/2.e16ff63b.chunk.js",
+    "static/js/2.e16ff63b.chunk.js.map": "/EagleNews/static/js/2.e16ff63b.chunk.js.map",
+    "static/js/3.150bddd4.chunk.js": "/EagleNews/static/js/3.150bddd4.chunk.js",
+    "static/js/3.150bddd4.chunk.js.map": "/EagleNews/static/js/3.150bddd4.chunk.js.map",
+    "index.html": "/EagleNews/index.html",
+    "static/css/main.8321a193.chunk.css.map": "/EagleNews/static/css/main.8321a193.chunk.css.map",
+    "static/js/2.e16ff63b.chunk.js.LICENSE.txt": "/EagleNews/static/js/2.e16ff63b.chunk.js.LICENSE.txt",
+    "static/media/LOGOimage.6d21cd96.png": "/EagleNews/static/media/LOGOimage.6d21cd96.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b6be3e2.js",
+    "static/js/2.e16ff63b.chunk.js",
+    "static/css/main.8321a193.chunk.css",
+    "static/js/main.ca6d2956.chunk.js"
+  ]
+}
