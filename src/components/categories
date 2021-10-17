@@ -1,0 +1,50 @@
+<Route path="/Business"><News pageSize={9} country="in" category="sports"/></Route>
+<Route path="/Entertainment"><News pageSize={9} country="in" category="sports"/></Route>
+<Route path="/General"><News pageSize={9} country="in" category="sports"/></Route>
+<Route path="/Health"><News pageSize={9} country="in" category="sports"/></Route>
+<Route path="/Science"><News pageSize={9} country="in" category="sports"/></Route>
+<Route path="/Sports"><News pageSize={9} country="in" category="sports"/></Route>
+<Route path="/Technology"><News pageSize={9} country="in" category="sports"/></Route>
+<Route path="/about"><News pageSize={9} country="in" category="sports"/></Route>
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-dark" style={{ backgroundColor: "#bc895e" }}>
+<div className="container-fluid">
+  <Link className="navbar-brand" to="//general">
+	<img src="/docs/5.1/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24" class="d-inline-block align-text-top" />
+	EagleNews</Link>
+  <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	<span className="navbar-toggler-icon"></span>
+  </button>
+  <div className="collapse navbar-collapse" id="navbarSupportedContent">
+	<ul className="navbar-nav me-auto mb-2 mb-lg-0">
+	  <li className="nav-item">
+		<Link className="nav-link" aria-current="page" to="/general">Home</Link>
+	  </li>
+
+	  {/* <li className="nav-item">
+		<Link className="nav-link" to="/general">General</Link></li> */}
+	  <li className="nav-item">
+		<Link className="nav-link" to="/business">Business</Link></li>
+	  <li className="nav-item">
+		<Link className="nav-link" to="/entertainment">Entertainment</Link></li>
+	  <li className="nav-item">
+		<Link className="nav-link" to="/health">Health</Link></li>
+	  <li className="nav-item">
+		<Link className="nav-link" to="/science">Science</Link></li>
+	  <li className="nav-item">
+		<Link className="nav-link" to="/sports">Sports</Link></li>
+	  <li className="nav-item">
+		<Link className="nav-link" to="/technology">Technology</Link></li>
+
+	</ul>
+
+  </div>
+</div>
+</nav>
